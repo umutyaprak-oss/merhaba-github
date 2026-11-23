@@ -12,3 +12,8 @@ Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 ## Bu depoda neler var?
 
 - [İlk programım](kodlar/merhaba.py)
+
+## Hobilerim
+
+- Oyun oynamak
+- Ders çalışmak
