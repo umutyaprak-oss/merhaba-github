@@ -2,7 +2,7 @@
 
 ![SAÜ Logosu](images/sau-logo.png)
 
-Bu Depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
+Bu Depo GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 ## Hakkımda
 
